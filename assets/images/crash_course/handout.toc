@@ -1,0 +1,32 @@
+\contentsline {section}{Calculus: Recap}{2}{section*.1}
+\contentsline {subsection}{Derivative}{2}{subsection*.2}
+\contentsline {subsection}{Gradient}{2}{subsection*.3}
+\contentsline {section}{Optimization}{2}{section*.4}
+\contentsline {subsection}{Gradient Descent}{2}{subsection*.5}
+\contentsline {subsection}{Example: Regression}{3}{subsection*.6}
+\contentsline {subsection}{Stochastic Gradient Descent}{3}{subsection*.7}
+\contentsline {section}{Neural Networks}{4}{section*.8}
+\contentsline {subsection}{Perceptron}{4}{subsection*.9}
+\contentsline {subsection}{Multi Layer Perceptrons and Sigmoid}{6}{subsection*.10}
+\contentsline {subsection}{ReLU Activation}{7}{subsection*.11}
+\contentsline {subsection}{Loss functions}{7}{subsection*.12}
+\contentsline {subsection}{Cross Entropy Loss}{8}{subsection*.13}
+\contentsline {subsection}{Softmax Activation}{8}{subsection*.14}
+\contentsline {subsection}{Backpropogation}{8}{subsection*.15}
+\contentsline {subsection}{Deep Networks and why they are hard to train}{11}{subsection*.16}
+\contentsline {section}{Convolutional Neural Networks}{12}{section*.17}
+\contentsline {subsection}{Local receptive fileds}{13}{subsection*.18}
+\contentsline {subsection}{Shared weights and biases}{14}{subsection*.19}
+\contentsline {subsection}{Pooling layers}{16}{subsection*.20}
+\contentsline {subsection}{Case Study: LeNet}{17}{subsection*.21}
+\contentsline {section}{Tricks of the Trade}{18}{section*.22}
+\contentsline {subsection}{Dropout}{18}{subsection*.23}
+\contentsline {subsection}{Data Augmentation}{19}{subsection*.24}
+\contentsline {subsection}{Weight initialization and Batch Normalization}{20}{subsection*.25}
+\contentsline {section}{Practical Advice}{21}{section*.26}
+\contentsline {subsection}{ImageNet Dataset and ILSVRC}{21}{subsection*.27}
+\contentsline {subsection}{Transfer Learning}{22}{subsection*.28}
+\contentsline {subsection}{GPUs}{23}{subsection*.29}
+\contentsline {subsection}{Other FAQ}{23}{subsection*.30}
+\contentsline {section}{Recommended reading}{24}{section*.31}
+\contentsfinish 
